@@ -1,0 +1,143 @@
+{
+  "github_login": "Madikhan33",
+  "window_title": "madikhan33@amber-term: ~",
+  "prompt": "C:\\MADIKHAN33> ",
+  "boot": {
+    "bezel_label": "AMBER-TERM 3300",
+    "bios_left": "AMBER-TERM 3300 BIOS v3.3",
+    "bios_right": "(C) 2026 MADIKHAN33",
+    "memory_label": "Memory Test",
+    "memory_kb": 65536,
+    "cpu_label": "CPU",
+    "cpu": "Neural Coprocessor @ 3.30 GHz (coffee-cooled)",
+    "detecting": "Detecting devices",
+    "devices": [
+      ["/dev/python", "FastAPI · SQLAlchemy · Pydantic · Alembic"],
+      ["/dev/langs", "Go · C# · SQL"],
+      ["/dev/ml", "NumPy · pandas · deep learning"],
+      ["/dev/llm", "LLM agents · routing · tool use"],
+      ["/dev/infra", "Docker · PostgreSQL · Linux · CI/CD"]
+    ],
+    "loading": "Loading PROFILE.SYS",
+    "title": "MADIKHAN33",
+    "tagline": "> backend & AI engineer // building AI agents that actually ship"
+  },
+  "sysinfo": {
+    "command": "neofetch",
+    "header": "madikhan33@github",
+    "fields": [
+      ["Role", "Backend & AI engineer"],
+      ["Focus", "AI agents, LLMs & machine learning"],
+      ["Langs", "Python, Go, C#"],
+      ["Backend", "FastAPI, SQLAlchemy, Pydantic"],
+      ["LLM", "agents, prompt routing, multi-agent orchestration"],
+      ["ML", "deep learning, NumPy, pandas"],
+      ["Data", "PostgreSQL, Alembic migrations"],
+      ["Infra", "Docker, Linux"],
+      ["Uptime", "since Jul 2025"],
+      ["Repos", "18 (16 classified)"]
+    ],
+    "robot_legend": "# body, + shading, O eyes, o eyelids (hidden while blinking), * pulsing lights, . empty",
+    "robot": [
+      ".......**.......",
+      ".......##.......",
+      "...##########...",
+      "..#++++++++++#..",
+      "..#+.oo..oo.+#..",
+      ".##+.OO..OO.+##.",
+      ".##+.oo..oo.+##.",
+      "..#+........+#..",
+      "..#+..#..#..+#..",
+      "..#+...##...+#..",
+      "..#++++++++++#..",
+      "...##########...",
+      "......####......",
+      "..############..",
+      ".##+++*++*+++##.",
+      ".##++++++++++##."
+    ]
+  },
+  "services": {
+    "command": "services --status",
+    "columns": ["UNIT", "STATE", "DESCRIPTION"],
+    "units": [
+      ["python.svc", "RUNNING", "primary language, async-first"],
+      ["go.svc", "RUNNING", "concurrent services"],
+      ["dotnet.svc", "RUNNING", "C# / .NET backends"],
+      ["fastapi.svc", "RUNNING", "REST APIs, Pydantic schemas"],
+      ["postgres.svc", "RUNNING", "SQLAlchemy ORM, Alembic migrations"],
+      ["docker.svc", "RUNNING", "containers, compose, deploys"],
+      ["ml.svc", "RUNNING", "NumPy, pandas, classic ML"],
+      ["deep-learning.svc", "RUNNING", "neural networks, training"],
+      ["llm-agents.svc", "RUNNING", "LLMs, agents, tool use, prompt routing"],
+      ["orchestrator.svc", "RUNNING", "multi-agent pipelines, verification"]
+    ]
+  },
+  "contributions": {
+    "command": "git log --since=\"1 year ago\" --heatmap",
+    "weekday_labels": ["", "Mon", "", "Wed", "", "Fri", ""],
+    "total_line": "{total} contributions in the last year",
+    "stats_line": "best day: {best_count} ({best_date})  ·  current streak: {current_streak}d  ·  longest streak: {longest_streak}d",
+    "legend": ["Less", "More"]
+  },
+  "contact": {
+    "command": "contact --list",
+    "telegram": {
+      "label": "TELEGRAM",
+      "handle": "@samaelkael",
+      "url": "https://t.me/samaelkael"
+    },
+    "linkedin": {
+      "label": "LINKEDIN",
+      "handle": "in/madikhan-zhussip",
+      "url": "https://www.linkedin.com/in/madikhan-zhussip/"
+    },
+    "call_to_action": "> scan or tap",
+    "qr": {
+      "data": "https://t.me/samaelkael",
+      "version": 2,
+      "error": "M",
+      "matrix": [
+        "1111111010101110001111111",
+        "1000001001101010101000001",
+        "1011101010111101101011101",
+        "1011101000110110001011101",
+        "1011101000010010001011101",
+        "1000001010011010101000001",
+        "1111111010101010101111111",
+        "0000000001010000100000000",
+        "1010001101001000100100101",
+        "1110100101010101101001011",
+        "1111001111101011000111101",
+        "1101010000110010001101000",
+        "0111101110000001101000001",
+        "0101010011100001101100011",
+        "1101101000010111000001101",
+        "0011110010000011010111000",
+        "1111111110011001111110010",
+        "0000000010101001100010001",
+        "1111111010101100101010001",
+        "1000001001111011100010011",
+        "1011101000001001111110001",
+        "1011101001100101110010110",
+        "1011101010111100010111011",
+        "1000001000000000110110000",
+        "1111111010111111101001001"
+      ]
+    }
+  },
+  "projects": {
+    "prompt": "C:\\PROJECTS> ",
+    "classified": {
+      "command": "cd CLASSIFIED",
+      "banner": "ACCESS DENIED",
+      "private_repos": 16,
+      "note": "clearance level: insufficient"
+    }
+  },
+  "footer": {
+    "command": "exit",
+    "farewell": "Thanks for stopping by. Session saved.",
+    "closing": "It's now safe to close this tab."
+  }
+}
